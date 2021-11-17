@@ -3,9 +3,9 @@
 Front-end that works well with this Back-end
 > [Axios Client](https://www.github.com/JS-IT/axios-request/)
 
-> [Angular 8 Client](https://www.github.com/JS-IT/angular-crud-app/) / [Angular 10 Client](https://www.github.com/JS-IT/angular-10-crud-app/) / [Angular 11 Client](https://www.github.com/JS-IT/angular-11-crud-app/) / [Angular 12 Client](https://www.github.com/JS-IT/angular-12-crud-app/) / [Angular 13 Client](https://www.github.com/JS-IT/angular-13-crud-example/)
+> [Angular 12 Client](https://www.github.com/JS-IT/angular-12-crud-app/) / [Angular 13 Client](https://www.github.com/JS-IT/angular-13-crud-example/)
 
-> [Vue 2 Client](https://www.github.com/JS-IT/vue-js-crud-app/) / [Vue 3 Client](https://www.github.com/JS-IT/vue-3-crud/) / [Vuetify Client](https://www.github.com/JS-IT/vuetify-data-table-example/)
+> [Vue 3 Client](https://www.github.com/JS-IT/vue-3-crud/) / [Vuetify Client](https://www.github.com/JS-IT/vuetify-data-table-example/)
 
 > [React Client](https://www.github.com/JS-IT/react-crud-web-api/) / [React Redux Client](https://www.github.com/JS-IT/react-redux-crud-example/)
 
@@ -36,12 +36,6 @@ Fullstack:
 > [Vue.js + Node.js + Express + MySQL example](https://www.github.com/JS-IT/vue-js-node-js-express-mysql-crud-example/)
 
 > [Vue.js + Node.js + Express + MongoDB example](https://www.github.com/JS-IT/vue-node-express-mongodb-mevn-crud/)
-
-> [Angular 8 + Node.js + Express + MySQL example](https://www.github.com/JS-IT/angular-node-express-mysql/)
-
-> [Angular 10 + Node.js + Express + MySQL example](https://www.github.com/JS-IT/angular-10-node-js-express-mysql/)
-
-> [Angular 11 + Node.js Express + MySQL example](https://www.github.com/JS-IT/angular-11-node-js-express-mysql/)
 
 > [Angular 12 + Node.js Express + MySQL example](https://www.github.com/JS-IT/angular-12-node-js-express-mysql/)
 
